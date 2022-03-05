@@ -1,0 +1,216 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/phonghy/RiderProjects/ShopCleanArchitect/src/Shop.WebApi/Shop.WebApi.csproj": {}
+  },
+  "projects": {
+    "/Users/phonghy/RiderProjects/ShopCleanArchitect/src/Shop.ApplicationCore/Shop.ApplicationCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/phonghy/RiderProjects/ShopCleanArchitect/src/Shop.ApplicationCore/Shop.ApplicationCore.csproj",
+        "projectName": "Shop.ApplicationCore",
+        "projectPath": "/Users/phonghy/RiderProjects/ShopCleanArchitect/src/Shop.ApplicationCore/Shop.ApplicationCore.csproj",
+        "packagesPath": "/Users/phonghy/.nuget/packages/",
+        "outputPath": "/Users/phonghy/RiderProjects/ShopCleanArchitect/src/Shop.ApplicationCore/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/phonghy/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/phonghy/RiderProjects/ShopCleanArchitect/src/Shop.Infrastructure/Shop.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/phonghy/RiderProjects/ShopCleanArchitect/src/Shop.Infrastructure/Shop.Infrastructure.csproj",
+        "projectName": "Shop.Infrastructure",
+        "projectPath": "/Users/phonghy/RiderProjects/ShopCleanArchitect/src/Shop.Infrastructure/Shop.Infrastructure.csproj",
+        "packagesPath": "/Users/phonghy/.nuget/packages/",
+        "outputPath": "/Users/phonghy/RiderProjects/ShopCleanArchitect/src/Shop.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/phonghy/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/phonghy/RiderProjects/ShopCleanArchitect/src/Shop.ApplicationCore/Shop.ApplicationCore.csproj": {
+                "projectPath": "/Users/phonghy/RiderProjects/ShopCleanArchitect/src/Shop.ApplicationCore/Shop.ApplicationCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0-preview.1.22076.6, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[7.0.0-preview.1, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.0-preview.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/phonghy/RiderProjects/ShopCleanArchitect/src/Shop.WebApi/Shop.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/phonghy/RiderProjects/ShopCleanArchitect/src/Shop.WebApi/Shop.WebApi.csproj",
+        "projectName": "Shop.WebApi",
+        "projectPath": "/Users/phonghy/RiderProjects/ShopCleanArchitect/src/Shop.WebApi/Shop.WebApi.csproj",
+        "packagesPath": "/Users/phonghy/.nuget/packages/",
+        "outputPath": "/Users/phonghy/RiderProjects/ShopCleanArchitect/src/Shop.WebApi/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/phonghy/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/phonghy/RiderProjects/ShopCleanArchitect/src/Shop.ApplicationCore/Shop.ApplicationCore.csproj": {
+                "projectPath": "/Users/phonghy/RiderProjects/ShopCleanArchitect/src/Shop.ApplicationCore/Shop.ApplicationCore.csproj"
+              },
+              "/Users/phonghy/RiderProjects/ShopCleanArchitect/src/Shop.Infrastructure/Shop.Infrastructure.csproj": {
+                "projectPath": "/Users/phonghy/RiderProjects/ShopCleanArchitect/src/Shop.Infrastructure/Shop.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0-preview.1.22076.6, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

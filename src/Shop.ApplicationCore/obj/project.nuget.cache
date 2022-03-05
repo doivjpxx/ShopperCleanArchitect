@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "/c/QT2WdoLU6w1F3PLvZIeYlBsC5GDyFFiqZYMW+m4z3NLxgGBUsbE5ZgEgSfVf950OSw2rjhwCGJguvr1OGcw==",
+  "success": true,
+  "projectFilePath": "/Users/phonghy/RiderProjects/ShopCleanArchitect/src/Shop.ApplicationCore/Shop.ApplicationCore.csproj",
+  "expectedPackageFiles": [
+    "/Users/phonghy/.nuget/packages/automapper/11.0.0/automapper.11.0.0.nupkg.sha512",
+    "/Users/phonghy/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/11.0.0/automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "/Users/phonghy/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/phonghy/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/phonghy/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/Users/phonghy/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/phonghy/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

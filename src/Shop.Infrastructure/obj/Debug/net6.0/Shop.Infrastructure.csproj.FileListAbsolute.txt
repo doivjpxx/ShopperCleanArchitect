@@ -1,0 +1,15 @@
+/Users/phonghy/RiderProjects/ShopCleanArchitect/src/Shop.Infrastructure/bin/Debug/net6.0/Shop.Infrastructure.deps.json
+/Users/phonghy/RiderProjects/ShopCleanArchitect/src/Shop.Infrastructure/bin/Debug/net6.0/Shop.Infrastructure.dll
+/Users/phonghy/RiderProjects/ShopCleanArchitect/src/Shop.Infrastructure/bin/Debug/net6.0/ref/Shop.Infrastructure.dll
+/Users/phonghy/RiderProjects/ShopCleanArchitect/src/Shop.Infrastructure/bin/Debug/net6.0/Shop.Infrastructure.pdb
+/Users/phonghy/RiderProjects/ShopCleanArchitect/src/Shop.Infrastructure/bin/Debug/net6.0/Shop.ApplicationCore.dll
+/Users/phonghy/RiderProjects/ShopCleanArchitect/src/Shop.Infrastructure/bin/Debug/net6.0/Shop.ApplicationCore.pdb
+/Users/phonghy/RiderProjects/ShopCleanArchitect/src/Shop.Infrastructure/obj/Debug/net6.0/Shop.Infrastructure.csproj.AssemblyReference.cache
+/Users/phonghy/RiderProjects/ShopCleanArchitect/src/Shop.Infrastructure/obj/Debug/net6.0/Shop.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phonghy/RiderProjects/ShopCleanArchitect/src/Shop.Infrastructure/obj/Debug/net6.0/Shop.Infrastructure.AssemblyInfoInputs.cache
+/Users/phonghy/RiderProjects/ShopCleanArchitect/src/Shop.Infrastructure/obj/Debug/net6.0/Shop.Infrastructure.AssemblyInfo.cs
+/Users/phonghy/RiderProjects/ShopCleanArchitect/src/Shop.Infrastructure/obj/Debug/net6.0/Shop.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/phonghy/RiderProjects/ShopCleanArchitect/src/Shop.Infrastructure/obj/Debug/net6.0/Shop.Infrastructure.csproj.CopyComplete
+/Users/phonghy/RiderProjects/ShopCleanArchitect/src/Shop.Infrastructure/obj/Debug/net6.0/Shop.Infrastructure.dll
+/Users/phonghy/RiderProjects/ShopCleanArchitect/src/Shop.Infrastructure/obj/Debug/net6.0/ref/Shop.Infrastructure.dll
+/Users/phonghy/RiderProjects/ShopCleanArchitect/src/Shop.Infrastructure/obj/Debug/net6.0/Shop.Infrastructure.pdb
