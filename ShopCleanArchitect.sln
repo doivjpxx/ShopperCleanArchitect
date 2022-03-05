@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop.Infrastructure", "src\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop.WebApi", "src\Shop.WebApi\Shop.WebApi.csproj", "{843DFA77-3CE3-4F23-9586-5D11F9E07E48}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop.UnitTests", "tests\Shop.UnitTests\Shop.UnitTests.csproj", "{10DB8319-80BA-49FE-97EB-B943FD386B2A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{843DFA77-3CE3-4F23-9586-5D11F9E07E48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{843DFA77-3CE3-4F23-9586-5D11F9E07E48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{843DFA77-3CE3-4F23-9586-5D11F9E07E48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10DB8319-80BA-49FE-97EB-B943FD386B2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10DB8319-80BA-49FE-97EB-B943FD386B2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10DB8319-80BA-49FE-97EB-B943FD386B2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10DB8319-80BA-49FE-97EB-B943FD386B2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
